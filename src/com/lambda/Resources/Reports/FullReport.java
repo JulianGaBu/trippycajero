@@ -1,4 +1,4 @@
-package Resources.Reports;
+package com.lambda.Resources.Reports;
 
 import java.text.DecimalFormat;
 

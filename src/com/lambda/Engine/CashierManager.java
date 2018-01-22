@@ -1,9 +1,9 @@
-package Engine;
+package com.lambda.Engine;
 
-import Resources.Entities.*;
-import Resources.Reports.FullReport;
-import Resources.Reports.PurchaseReport;
-import Resources.Reports.Report;
+import com.lambda.Resources.Entities.*;
+import com.lambda.Resources.Reports.FullReport;
+import com.lambda.Resources.Reports.PurchaseReport;
+import com.lambda.Resources.Reports.Report;
 
 import java.util.ArrayList;
 import java.util.concurrent.ExecutorService;

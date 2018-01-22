@@ -1,4 +1,4 @@
-package Resources.Entities;
+package com.lambda.Resources.Entities;
 
 public class Item {
     private int id;

@@ -1,4 +1,4 @@
-package Resources.Entities;
+package com.lambda.Resources.Entities;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,6 +1,6 @@
-package Engine;
+package com.lambda.Engine;
 
-import Resources.Entities.Purchase;
+import com.lambda.Resources.Entities.Purchase;
 
 import java.util.ArrayList;
 

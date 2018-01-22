@@ -1,6 +1,6 @@
-package Resources.Reports;
+package com.lambda.Resources.Reports;
 
-import Resources.Entities.Purchase;
+import com.lambda.Resources.Entities.Purchase;
 
 import java.text.DecimalFormat;
 
